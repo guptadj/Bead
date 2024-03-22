@@ -1,7 +1,7 @@
 body{
     /* font-family: Angkasa; */
     /* font-family: 'Angkasa', sans-serif; */
-    font-family: "Single Day", cursive;
+    font-family: "Single Day";
     font-weight: 400;
     font-style: normal;
 }
@@ -102,6 +102,9 @@ body{
     .Logo{
         width:80%;
     }
+    body{
+    font-family: "Single Day";
+    }
     
     
     
@@ -139,6 +142,9 @@ body{
         margin: 1%;
         width: 100%;
     
+    }
+     body{
+    font-family: "Single Day";
     }
 
     
